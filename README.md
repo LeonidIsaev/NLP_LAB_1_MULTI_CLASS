@@ -8,3 +8,5 @@
 **dataset**: https://www.kaggle.com/ishantjuyal/emotions-in-text
 
 **code**: https://colab.research.google.com/drive/11IdBnhOkBYXQ7nX1lacSa7KGU756q_SD?usp=sharing
+
+*requirements.txt отсутствует, так как в google colab дополнительно не требовалось ставить какие-либо библиотеки.*
